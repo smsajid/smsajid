@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smsajid
 - 👀 I’m interested in distributed computing, microservices, Kubernetes and Java
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Operator SDK
+- 💞️ I’m looking to collaborate on my pet project on distributed micro frontend framework
 - 📫 How to reach me ...
 
 <!---
